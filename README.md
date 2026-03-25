@@ -1,5 +1,8 @@
 # ESCALATE Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19224182.svg)](https://doi.org/10.5281/zenodo.19224182)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/2024DavePower-cloud/ESCALATE-dataset)
+
 **ESCALATE**: Evaluation of Structured Clinical and Language-based Agent Transcripts for Escalation
 
 A synthetic, paired dataset of safety-critical clinical escalation conversations generated using multi-agent large language models.
@@ -97,15 +100,15 @@ ESCALATE-dataset/\
 
 ## 📜 Citation
 
-See `CITATION.cff`
+Power, D., & Power, T. (2026). ESCALATE: A Dataset for Safety-Critical Clinical Escalation Conversations (Version: 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19224182
 
 ---
 
 ## 🔗 Links
 
 - Paper: (TODO, final draft)
-- Zenodo: (TODO)
-- Hugging Face: (TODO)
+- Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19224182.svg)](https://doi.org/10.5281/zenodo.19224182)
+- Hugging Face: [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/2024DavePower-cloud/ESCALATE-dataset)
 
 ---
 
