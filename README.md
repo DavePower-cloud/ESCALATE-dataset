@@ -105,9 +105,21 @@ Power, D., & Power, T. (2026). ESCALATE: A Dataset for Safety-Critical Clinical 
 
 ---
 
-## Related Work
+## 🔗 Related Work
 
-Power, D., & Power, T. (2026). Can Large Language Models Generate Role-Consistent Clinical Dialogue for Education? A Multi-agent Approach. Under Review. Preprint available at EdArViX: https://doi.org/10.35542/osf.io/etv6d_v1
+This dataset is part of a broader research programme investigating the use of multi-agent large language models for clinical simulation and communication.
+
+  *Power, D., & Power, T. (2026). Can Large Language Models Generate Role-Consistent Clinical Dialogue for Education? A Multi-agent Approach.*  (Currently under review)
+  
+  Preprint available at EdArViX: https://doi.org/10.35542/osf.io/etv6d_v1
+
+This prior work demonstrates the feasibility of role-locked multi-agent LLM systems in simulating realistic clinical interactions.
+
+The ESCALATE dataset extends this work by providing a large-scale, structured dataset of escalation-of-care conversations, enabling systematic evaluation of communication quality, safety, and structured handover frameworks such as ISBAR.
+
+
+
+---
 
 ## 🔗 Links
 
