@@ -1,7 +1,7 @@
 # ESCALATE Dataset
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19224182.svg)](https://doi.org/10.5281/zenodo.19224182)
-[![🤗 Dataset](https://img.shields.io/badge/🤗-ESCALATE%20Dataset-yellow)](https://huggingface.co/datasets/2024DavePower-cloud/ESCALATE)
+[![🤗 Dataset](https://img.shields.io/badge/🤗-ESCALATE%20Dataset-yellow)](https://huggingface.co/datasets/2O24dpower2024/ESCALATE)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/DavePower-cloud/ESCALATE-dataset)
 
 **ESCALATE**: Evaluation of Structured Clinical and Language-based Agent Transcripts for Escalation
@@ -109,7 +109,7 @@ Power, D., & Power, T. (2026). ESCALATE: A Dataset for Safety-Critical Clinical 
 
 - Paper: (TODO, final draft)
 - Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19224182.svg)](https://doi.org/10.5281/zenodo.19224182)
-- Hugging Face: [![🤗 Dataset](https://img.shields.io/badge/🤗-ESCALATE%20Dataset-yellow)](https://huggingface.co/datasets/2024DavePower-cloud/ESCALATE)
+- Hugging Face: [![🤗 Dataset](https://img.shields.io/badge/🤗-ESCALATE%20Dataset-yellow)](https://huggingface.co/datasets/2O24dpower2024/ESCALATE)
 
 ---
 
