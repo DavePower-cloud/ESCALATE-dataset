@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "required": ["conversation_id", "case_id", "condition", "turns"],
+  "properties": {
+    "pair_id": {"type": "string"},
+    "conversation_id": {"type": "string"},
+    "case_id": {"type": "string"},
+    "condition": {"type": "string", "enum": ["control", "isbar"]},
+    "include_nic_handover": {"type": "boolean"},
+    "num_turns": {"type": "integer"},
+    "role_guard_failures": {"type": "integer"},
+    "participants": {"type": "object"},
+    "turns": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "turn": {"type": "integer"},
+          "speaker": {"type": "string"},
+          "text": {"type": "string"},
+          "timestamp": {"type": "string"}
+        }
+      }
+    },
+    "case_card_text": {"type": "string"}
+  }
+}

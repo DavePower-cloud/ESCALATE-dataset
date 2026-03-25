@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "required": ["conversation_id", "scores"],
+  "properties": {
+    "conversation_id": {"type": "string"},
+    "pair_id": {"type": "string"},
+    "case_id": {"type": "string"},
+    "condition": {"type": "string"},
+    "judge_model": {"type": "string"},
+    "evaluation_version": {"type": "string"},
+    "scores": {
+      "type": "object",
+      "properties": {
+        "isbar_headings_used": {"type": "integer"},
+        "isbar_headings_count": {"type": "integer"},
+        "content_completeness": {"type": "integer"},
+        "ews_communication": {"type": "integer"},
+        "safety_critical_omissions": {"type": "integer"},
+        "hallucinations_inventions": {"type": "integer"},
+        "escalation_appropriateness": {"type": "integer"},
+        "call_actionability": {"type": "integer"},
+        "closed_loop": {"type": "integer"},
+        "overall_safety_risk": {"type": "string"}
+      }
+    },
+    "derived": {"type": "object"},
+    "key_failure_modes": {"type": "array"},
+    "brief_comments": {"type": "string"}
+  }
+}

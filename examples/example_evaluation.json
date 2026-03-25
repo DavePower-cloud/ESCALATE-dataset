@@ -1,0 +1,16 @@
+{
+  "conversation_id": "example_001",
+  "scores": {
+    "isbar_headings_used": 0,
+    "content_completeness": 3,
+    "safety_critical_omissions": 1,
+    "hallucinations_inventions": 0,
+    "call_actionability": 4,
+    "closed_loop": 2,
+    "overall_safety_risk": "moderate"
+  },
+  "derived": {
+    "any_omission": true,
+    "any_hallucination": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "conversation_id": "example_001",
+  "case_id": "C01",
+  "condition": "control",
+  "num_turns": 3,
+  "turns": [
+    {"turn": 1, "speaker": "registrar", "text": "Hello"},
+    {"turn": 2, "speaker": "ward_nurse", "text": "Patient deteriorating"},
+    {"turn": 3, "speaker": "registrar", "text": "I will review"}
+  ]
+}
