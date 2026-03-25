@@ -105,6 +105,18 @@ Power, D., & Power, T. (2026). ESCALATE: A Dataset for Safety-Critical Clinical 
 
 ---
 
+### BibTeX
+
+@dataset{power2026escalate,\
+  author       = {David Power},\
+  title        = {ESCALATE: A Dataset for Safety-Critical Clinical Escalation Conversations},\
+  year         = {2026},\
+  publisher    = {Zenodo},\
+  doi          = {10.5281/zenodo.19224182}\
+}
+
+---
+
 ## 🔗 Related Work
 
 This dataset is part of a broader research programme investigating the use of multi-agent large language models for clinical simulation and communication.
@@ -116,8 +128,6 @@ This dataset is part of a broader research programme investigating the use of mu
 This prior work demonstrates the feasibility of role-locked multi-agent LLM systems in simulating realistic clinical interactions.
 
 The ESCALATE dataset extends this work by providing a large-scale, structured dataset of escalation-of-care conversations, enabling systematic evaluation of communication quality, safety, and structured handover frameworks such as ISBAR.
-
-
 
 ---
 
@@ -136,3 +146,5 @@ Healthcare Simulation Specialist | MSc Artificial Intelligence
 
 - 💼 LinkedIn: https://www.linkedin.com/in/dave-power-47280a44/  
 - 💻 GitHub: https://github.com/DavePower-cloud
+
+  
