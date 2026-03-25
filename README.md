@@ -105,6 +105,10 @@ Power, D., & Power, T. (2026). ESCALATE: A Dataset for Safety-Critical Clinical 
 
 ---
 
+## Related Work
+
+Power, D., & Power, T. (2026). Can Large Language Models Generate Role-Consistent Clinical Dialogue for Education? A Multi-agent Approach. Under Review. Preprint available at EdArViX: https://doi.org/10.35542/osf.io/etv6d_v1
+
 ## 🔗 Links
 
 - Paper: (TODO, final draft)
