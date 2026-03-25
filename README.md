@@ -139,6 +139,15 @@ The ESCALATE dataset extends this work by providing a large-scale, structured da
 
 ---
 
+## 📜 Licensing
+
+- Code is released under the MIT License
+- Dataset is released under CC BY 4.0
+
+Please cite appropriately when using the dataset.
+
+---
+
 ## 👤 Author
 
 David Power  
