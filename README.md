@@ -107,14 +107,18 @@ Power, D., & Power, T. (2026). ESCALATE: A Dataset for Safety-Critical Clinical 
 
 ### BibTeX
 
-@dataset{power2026escalate,\
-  author       = {David Power},\
-  title        = {ESCALATE: A Dataset for Safety-Critical Clinical Escalation Conversations},\
-  year         = {2026},\
-  publisher    = {Zenodo},\
-  doi          = {10.5281/zenodo.19224182}\
+```bibex
+@dataset{power2026escalate,
+  author       = {Power, David},
+  title        = {ESCALATE: A Dataset for Safety-Critical Clinical Escalation Conversations},
+  year         = {2026},
+  version      = {1.0.0},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.19224182},
+  url          = {https://doi.org/10.5281/zenodo.19224182},
+  note         = {Synthetic dataset of clinical escalation-of-care conversations generated using multi-agent large language models}
 }
-
+```
 ---
 
 ## 🔗 Related Work
