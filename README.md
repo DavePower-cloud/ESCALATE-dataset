@@ -137,7 +137,7 @@ The ESCALATE dataset extends this work by providing a large-scale, structured da
 
 ## 🔗 Links
 
-- Paper: (TODO, final draft)
+- Paper: (in progress)
 - Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19224182.svg)](https://doi.org/10.5281/zenodo.19224182)
 - Hugging Face: [![🤗 Dataset](https://img.shields.io/badge/🤗-ESCALATE%20Dataset-yellow)](https://huggingface.co/datasets/2O24dpower2024/ESCALATE)
 
